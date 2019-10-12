@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name ATTINY85-20SU)(type Legacy)(uri ${KIPRJMOD}/Symbols/ATTINY85-20SU/ATTINY85-20SU.lib)(options "")(descr ""))
+  (lib (name MC78M05BDTRKG)(type Legacy)(uri ${KIPRJMOD}/Symbols/MC78M05BDTRKG/MC78M05BDTRKG/MC78M05BDTRKG.lib)(options "")(descr ""))
+  (lib (name MC000991)(type Legacy)(uri ${KIPRJMOD}/Symbols/MC000991/MC000991/MC000991.lib)(options "")(descr ""))
+  (lib (name MBR0520LT)(type Legacy)(uri ${KIPRJMOD}/Symbols/MBR0520LT/MBR0520LT/MBR0520LT.lib)(options "")(descr ""))
+  (lib (name CRGCQ0805J1K5)(type Legacy)(uri /root/Documentos/Projects/PieceOfPwn/Symbols/res1k50805/CRGCQ0805J1K5/CRGCQ0805J1K5.lib)(options "")(descr ""))
+  (lib (name RCS080568R0JNEA)(type Legacy)(uri /root/Documentos/Projects/PieceOfPwn/Symbols/res680805/RCS080568R0JNEA/RCS080568R0JNEA.lib)(options "")(descr ""))
+  (lib (name UDZSTE-173.6B)(type Legacy)(uri ${KIPRJMOD}/Symbols/diodezener_3.6_SOD-323/UDZSTE-173.6B/UDZSTE-173.6B.lib)(options "")(descr ""))
+  (lib (name 0805ZG475MAT2A)(type Legacy)(uri ${KIPRJMOD}/Symbols/cap_cer_4.7uF_0805/0805ZG475MAT2A/0805ZG475MAT2A.lib)(options "")(descr ""))
+  (lib (name 0603ZC104K4T2A)(type Legacy)(uri ${KIPRJMOD}/Symbols/cap_cer_0.1uF_0603/0603ZC104K4T2A/0603ZC104K4T2A.lib)(options "")(descr ""))
+  (lib (name HSMQ-C190)(type Legacy)(uri ${KIPRJMOD}/Symbols/led_0603/HSMQ-C190/HSMQ-C190.lib)(options "")(descr ""))
+  (lib (name RCP0603B1K00GEC)(type Legacy)(uri /root/Documentos/Projects/PieceOfPwn/Symbols/res_1k_0603/RCP0603B1K00GEC/RCP0603B1K00GEC.lib)(options "")(descr ""))
+)
